@@ -1,10 +1,10 @@
 build:
-  version: "1.0"
+  version: "1.8"
 accounts:
-  message: "Welcome to EazyBank accounts related Production APIs "
+  message: "Welcome to EazyBank accounts related Production(2026) APIs "
   contactDetails:
-    name: "Ravindra Mullamuri- Developer"
+    name: "Ravindra M- Developer"
     email: "ravindramullamuri@eazybank.com"
   onCallSupport:
     - (939) 555-1234
-    - (939) 523-1345
+    - (939) 523-4321
