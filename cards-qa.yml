@@ -3,8 +3,8 @@ build:
 cards:
   message: "Welcome to EazyBank cards related QA :) APIs"
   contactDetails:
-    name: "Gathvik M - Developer"
+    name: "Gathvik - Sr, Developer"
     email: "gathvik@eazybank.com"
   onCallSupport:
-    - (939) 555-1234
+    - (939) 555-14
     - (939) 523-45
