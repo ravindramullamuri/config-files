@@ -1,7 +1,7 @@
 build:
   version: "1.8"
 accounts:
-  message: "Welcome to EazyBank accounts related Production(2026) APIs "
+  message: "Welcome to EazyBank accounts related Production webhook APIs "
   contactDetails:
     name: "Ravindra M- Developer"
     email: "ravindramullamuri@eazybank.com"
